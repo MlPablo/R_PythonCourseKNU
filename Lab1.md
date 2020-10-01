@@ -11,11 +11,11 @@ class(integ)
 class(comp)
 class(lg)
 ```
-[1] "character"
-[1] "numeric"
-[1] "integer"
-[1] "complex"
-[1] "logical"
+[1] "character"  
+[1] "numeric"  
+[1] "integer"  
+[1] "complex"  
+[1] "logical"  
 # 2. Створити вектори, які: містить послідовність з 5 до 75; містить числа 3.14, 2.71, 0, 13; 100 значень TRUE.
 ```{r}
 first <- 5:75
