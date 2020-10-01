@@ -10,7 +10,8 @@ class(ch)
 class(num)
 class(integ)
 class(comp)
-class(lg)'''
+class(lg)
+'''
 #2. Створити вектори, які: містить послідовність з 5 до 75; містить числа 3.14,
 #2.71, 0, 13; 100 значень TRUE.
 first <- 5:75
