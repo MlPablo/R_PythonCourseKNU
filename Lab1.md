@@ -1,6 +1,6 @@
 #1. Створити змінні базових (atomic) типів. Базові типи: character, numeric,
 #integer, complex, logical.
-'''{r}
+```{r}
 ch <- "Hello World!"
 num <- 100.5
 integ <- 5L
@@ -11,7 +11,7 @@ class(num)
 class(integ)
 class(comp)
 class(lg)
-'''
+```
 #2. Створити вектори, які: містить послідовність з 5 до 75; містить числа 3.14,
 #2.71, 0, 13; 100 значень TRUE.
 first <- 5:75
