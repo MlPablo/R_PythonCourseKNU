@@ -11,7 +11,7 @@ class(integ)
 class(comp)
 class(lg)
 ``` 
-[1] "character" 
+[1] "character"   
 [1] "numeric"  
 [1] "integer"  
 [1] "complex"  
